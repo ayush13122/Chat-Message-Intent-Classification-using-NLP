@@ -1,0 +1,91 @@
+message,label
+"I need help resetting my password",support
+"Can you assist me with setting up my account?",support
+"Please help me recover my deleted files",support
+"I require assistance with my subscription plan",support
+"How do I update my billing information?",support
+"I need someone to walk me through the installation process",support
+"Please help me configure my account settings",support
+"Can you guide me on how to enable two-factor authentication?",support
+"I need help connecting my device to the service",support
+"Please assist me in changing my email address on the account",support
+"I forgot my username and need help recovering it",support
+"Help me understand how to use the dashboard features",support
+"I need assistance transferring my data to a new device",support
+"Can you help me set up automatic payments?",support
+"Please support me in merging two accounts together",support
+"I need help troubleshooting my login issue",support
+"Can you walk me through the refund process?",support
+"I need guidance on upgrading my current plan",support
+"Please help me add a secondary user to my account",support
+"I need assistance with the verification step during signup",support
+"I am extremely frustrated with your terrible service",complaint
+"This product is completely broken and unusable",complaint
+"Your customer support is the worst I have ever experienced",complaint
+"I have been waiting for 10 days and my issue is still not resolved",complaint
+"This is absolutely unacceptable, I want a refund immediately",complaint
+"Your app keeps crashing every single time I open it",complaint
+"I am very disappointed with the quality of your product",complaint
+"Your billing system charged me twice and no one is helping",complaint
+"This is the third time my order has been wrong",complaint
+"I cannot believe how poorly your service is managed",complaint
+"Your response times are ridiculously slow and unhelpful",complaint
+"I have been misled by your sales team about the features",complaint
+"The product I received is damaged and I am very upset",complaint
+"Your website has been down for hours and I am losing money",complaint
+"I was promised a callback but no one ever reached out",complaint
+"This service is a complete waste of money",complaint
+"I am filing a formal complaint about the rude behavior of your staff",complaint
+"My data was lost due to your system failure and nobody cares",complaint
+"I have never seen such poor quality in any product before",complaint
+"Your policies are confusing and your team is unhelpful",complaint
+"What are the pricing plans available for new users?",query
+"How long does shipping typically take for international orders?",query
+"What features are included in the premium package?",query
+"Can you tell me what payment methods are accepted?",query
+"What is the difference between the basic and pro plans?",query
+"How many users can be added under one account?",query
+"What is your cancellation and refund policy?",query
+"Are there any discounts available for students?",query
+"What are the system requirements for installing this software?",query
+"How does the free trial work and how long does it last?",query
+"Do you offer integration with third-party tools like Slack?",query
+"What is the maximum file size that can be uploaded?",query
+"Is customer support available on weekends?",query
+"What countries do you currently ship to?",query
+"How does the loyalty rewards program work?",query
+"Can I switch between plans without losing my data?",query
+"What security measures are in place to protect user data?",query
+"How often does the system receive updates?",query
+"Is there a mobile app available for Android and iOS?",query
+"Do you provide an API for developers to integrate your service?",query
+"I urgently need help recovering my account before my presentation",support
+"Could you please assist me with exporting my project files?",support
+"I need help understanding the error message I keep seeing",support
+"Please help me reconnect my payment method to my account",support
+"Can you guide me through setting up email notifications?",support
+"I need step-by-step help to complete my profile setup",support
+"Please assist me in downloading my invoice for tax purposes",support
+"Help me understand why my account was temporarily suspended",support
+"I need someone to help me navigate the new interface update",support
+"Can you assist me in enabling dark mode on the platform?",support
+"This is outrageous, I have been billed for a service I cancelled months ago",complaint
+"Your so-called premium support is absolutely useless",complaint
+"I am deeply dissatisfied with the inconsistent service quality",complaint
+"My account was hacked and your security team is doing nothing",complaint
+"I have submitted five tickets and not received a single response",complaint
+"The product stopped working just two days after purchase",complaint
+"Your update completely broke all my previous settings",complaint
+"I am shocked at how little your team cares about customer issues",complaint
+"The delivery was delayed by two weeks with no communication",complaint
+"I feel completely ignored and disrespected as a customer",complaint
+"What happens to my data if I decide to cancel my subscription?",query
+"Can I use the service on multiple devices simultaneously?",query
+"What is the average response time for customer support tickets?",query
+"Are there any hidden fees associated with the subscription?",query
+"How do I export all my data before closing my account?",query
+"What certifications or compliance standards does your platform meet?",query
+"Is there a community forum or knowledge base I can refer to?",query
+"Can I pause my subscription instead of cancelling it?",query
+"How do I add my team members to a shared workspace?",query
+"What analytics and reporting features are available in the pro plan?",query
