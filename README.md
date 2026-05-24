@@ -298,16 +298,10 @@ jupyter notebook notebooks/intent_classification.ipynb
 ## 👤 Author
 
 **Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub](https://github.com/yourusername)
+📧 rajayush1312@gmail.com  
 
----
 
-## 📄 License
 
-This project is licensed under the **MIT License** — feel free to use it for your college
-projects, portfolio, or internship applications.
 
 ---
 
